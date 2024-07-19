@@ -3,7 +3,7 @@
 #### React Version : 18.3.1
 
 ## Link Deploy Netlify
-https://tesmagang.netlify.app
+[https://tesmagang.netlify.app](https://internshipsekawanmedia.netlify.app/)
 ## How To Start Project
 ```bash
 npm run dev
